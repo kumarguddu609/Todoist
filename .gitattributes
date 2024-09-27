@@ -1,0 +1,9 @@
+# Ensure text files have LF line endings
+* text=auto
+
+# Specific file types that should have LF endings
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.json text eol=lf
